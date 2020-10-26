@@ -10,29 +10,29 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  icon: "images/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+- name: React & Redux
+  icon: "images/skills/react.png"
+  summary: "Over 1 year of experince on using React Js & Redux"
   url: "https://kubernetes.io/"
 
-- name: Go Development
-  icon: "images/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+- name: Node Js & Express
+  icon: "images/skills/nodejs.png"
+  summary: "Created Restful API using NodeJS & Express"
   url: "https://golang.org/"
 
-- name: Cloud Computing
-  icon: "images/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: HTML5 & CSS
+  icon: "images/skills/html.png"
+  summary: ""
 
-- name: Docker
-  icon: "images/skills/docker.svg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  icon: "images/skills/prometheus.png"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+- name: Restful API
+  icon: "images/skills/restapi.jpg"
+  summary: "Very good understanding of Restful API"
   url: "https://prometheus.io/"
+
+- name: Mysql
+  icon: "images/skills/mysql.jpg"
+  summary: "Used Mysql 5.7 most of the time"
+  url: "https://www.docker.com/"
 
 - name: Linux
   icon: "images/skills/linux.png"
@@ -40,9 +40,9 @@ skills:
 
 - name: Git
   icon: "images/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with Bitbucket."
   url: "https://git-scm.com/"
 
-- name: C++
-  icon: "images/skills/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: MongoDB
+  icon: "images/skills/mongo.png"
+  summary: "Used MongoDB for event logging purpose in the application."
