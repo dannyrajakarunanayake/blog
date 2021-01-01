@@ -27,6 +27,11 @@ disqusShortname: does-not-exist
 # Enable global emoji support
 enableEmoji: true
 
+permalinks:
+  name: "Posts"
+  url: "/posts"
+  weight: 3
+
 # Custom parameters
 params:
   # background image of the landing page
@@ -54,8 +59,3 @@ params:
   newsletter:
     enable: false
 
-  author:
-    image: ''
-
-author:
-  image: ''
