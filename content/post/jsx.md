@@ -2,7 +2,6 @@
 title: "Jsx"
 date: 2020-10-24T15:04:28+11:00
 draft: false
-author: Danny
 ---
 
 JSX looks like Javascript but start with **const** and end with ; here is the example
