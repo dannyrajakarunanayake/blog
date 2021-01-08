@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danny R</title>
+    <link>http://dannyrajakarunanayake.com/</link>
+    <description>Recent content on Danny R</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 24 Oct 2020 15:04:28 +1100</lastBuildDate><atom:link href="http://dannyrajakarunanayake.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jsx</title>
+      <link>http://dannyrajakarunanayake.com/posts/jsx/</link>
+      <pubDate>Sat, 24 Oct 2020 15:04:28 +1100</pubDate>
+      
+      <guid>http://dannyrajakarunanayake.com/posts/jsx/</guid>
+      <description>JSX looks like Javascript but start with const and end with ; here is the example
+import React from &amp;#39;react&amp;#39;; const element = &amp;lt;h1&amp;gt;Hello&amp;lt;/h1&amp;gt;;  when you code in html it&amp;rsquo;s like this  &amp;lt;h1&amp;gt;Hello&amp;lt;/h1&amp;gt;  JSX is syntax extension for javascript Written in React Browser can not understand JSX so it&amp;rsquo;s convert into javascript through babel compiler After compiling JSX it&amp;rsquo;s treat as javascript JSX is an extension of the JavaScript language on ES6 With JSX you can write expressions inside curly braces { }  import React from &amp;#39;react&amp;#39;; const element = &amp;lt;h1&amp;gt;React is {5 + 5} times better with JSX&amp;lt;/h1&amp;gt;; </description>
+    </item>
+    
+    <item>
+      <title>React Hooks</title>
+      <link>http://dannyrajakarunanayake.com/posts/react-hooks/</link>
+      <pubDate>Sat, 24 Oct 2020 14:58:58 +1100</pubDate>
+      
+      <guid>http://dannyrajakarunanayake.com/posts/react-hooks/</guid>
+      <description>Hooks are let you to use state and other React features in stateless components(Functional) Stateful logic without changing component hierarchy Reusable stateful logic pass between components. Allow you to write complex logic in functional components without the need of any Class Component. It can be extracted in other files, shared, reused and tested more easily There are 3 basic hooks types such as  useState  useState use to declare new state variable to component  import React from &amp;#39;react import {useState} from &amp;#34;react&amp;#34; const[count, setCount] = useState(0); useEffect  useEffect use to connect with component lifecycle  import React from &amp;#39;react import {useState, useEffect} from &amp;#34;react&amp;#34; useEffect(() =&amp;gt; { setCount{count} } useContext  useContext provides way to pass data through the component without having pass props manually at every level less commonly used can read the value  import React, { useContext} from &amp;#34;react&amp;#34;; import ReactDOM from &amp;#34;react-dom&amp;#34;; const newContext = React.</description>
+    </item>
+    
+    <item>
+      <title>Component types in React</title>
+      <link>http://dannyrajakarunanayake.com/posts/my-first-post/</link>
+      <pubDate>Sat, 24 Oct 2020 09:43:33 +1100</pubDate>
+      
+      <guid>http://dannyrajakarunanayake.com/posts/my-first-post/</guid>
+      <description>There are mainly two types of components in react Such as class components and functional components.Sometimes known as state or stateless components Components are reusable properties and return JSX. Browsers cannot read JSX. Babel helps to convert JSX to HTML  Functional Component This is the way to declare functional component in react and return JSX element
+import React from &amp;#34;react&amp;#34;; const App = () =&amp;gt; { return ( &amp;lt;div&amp;gt; App &amp;lt;/div&amp;gt; ); }; export default App;  This is the way to pass data from parent to child through props.</description>
+    </item>
+    
+  </channel>
+</rss>
